@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/review_technic/static/css/main.c742bd1f.css",
+    "main.js": "/review_technic/static/js/main.9e72bb9f.js",
+    "static/js/453.e94236c0.chunk.js": "/review_technic/static/js/453.e94236c0.chunk.js",
+    "index.html": "/review_technic/index.html",
+    "main.c742bd1f.css.map": "/review_technic/static/css/main.c742bd1f.css.map",
+    "main.9e72bb9f.js.map": "/review_technic/static/js/main.9e72bb9f.js.map",
+    "453.e94236c0.chunk.js.map": "/review_technic/static/js/453.e94236c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c742bd1f.css",
+    "static/js/main.9e72bb9f.js"
+  ]
+}
